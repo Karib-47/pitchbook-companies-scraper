@@ -1,0 +1,93 @@
+[
+  {
+    "url": "https://pitchbook.com/profiles/company/361831-87",
+    "id": "361831-87",
+    "company_name": "Badia Spices",
+    "company_socials": [
+      {
+        "domain": "www.facebook.com",
+        "link": "https://www.facebook.com/BadiaSpices"
+      },
+      {
+        "domain": "twitter.com",
+        "link": "https://twitter.com/badiaspices"
+      },
+      {
+        "domain": "www.linkedin.com",
+        "link": "https://www.linkedin.com/company/badia-spices-inc."
+      }
+    ],
+    "year_founded": 1967,
+    "status": "Private",
+    "employees": 101,
+    "latest_deal_type": "Buyout/​LBO",
+    "financing_rounds": 1,
+    "investments": 1,
+    "description": "Manufacturer and distributor of food ingredients based in Doral, Florida.",
+    "contact_information": [
+      {
+        "Type": "Website",
+        "value": "www.badiaspices.com"
+      },
+      {
+        "Type": "Ownership Status",
+        "value": "Privately Held (backing)"
+      },
+      {
+        "Type": "Financing Status",
+        "value": "Private Equity-Backed"
+      },
+      {
+        "Type": "Corporate Office",
+        "value": "PO Box 226497, Doral, FL 33322-4697, United States"
+      },
+      {
+        "Type": "Primary Industry",
+        "value": "Food Products"
+      },
+      {
+        "Type": "Vertical(s)",
+        "value": "Manufacturing"
+      }
+    ],
+    "patents": null,
+    "competitors": [
+      {
+        "company_name": "Louisiana Fish Fry",
+        "financing_status": "Private Equity-Backed",
+        "link": "https://pitchbook.com/profiles/company/233704-27",
+        "location": "Baton Rouge, LA"
+      },
+      {
+        "company_name": "Newly Weds Foods",
+        "financing_status": "Private Equity-Backed",
+        "link": "https://pitchbook.com/profiles/company/66332-35",
+        "location": "Chicago, IL"
+      }
+    ],
+    "research_analysis": null,
+    "patent_activity": null,
+    "all_investments": [
+      {
+        "company_name": "Tech Data (Warehouse in Sweetwater, Texas)",
+        "deal_date": "2020-11-03T00:00:00.000Z",
+        "deal_size": null,
+        "deal_type": "Corporate Asset Purchase",
+        "industry": "Buildings and Property"
+      }
+    ],
+    "faq": [
+      {
+        "type": "Question",
+        "value": "When was Badia Spices founded?"
+      },
+      {
+        "type": "Answer",
+        "value": "Badia Spices was founded in 1967."
+      }
+    ],
+    "investors": [
+      "BDT & MSD Partners"
+    ]
+  }
+]
