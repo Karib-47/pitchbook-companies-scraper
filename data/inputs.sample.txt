@@ -1,0 +1,2 @@
+# Sample PitchBook company profile URLs, one per line.
+https://pitchbook.com/profiles/company/361831-87
