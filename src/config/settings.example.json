@@ -1,0 +1,8 @@
+{
+  "base_url": "https://pitchbook.com",
+  "user_agent": "PitchbookCompanyProfileScraper/1.0 (+https://bitbash.dev)",
+  "request_timeout": 15,
+  "rate_limit_per_minute": 40,
+  "output_dir": "data",
+  "default_schema_validation": true
+}
